@@ -111,8 +111,15 @@ namespace DigitCenter.Task
         static void RemoveItem(List<EntryObject> list)
         {
             Console.Write("Введите номер объекта для удаления: ");
-            list.RemoveAt(Int32.Parse(Console.ReadLine()));
-            Console.WriteLine("Объект удален");
+            var index = Int32.Parse(Console.ReadLine());
+
+            if(index < 0 || index > list.Count - 1)
+            {
+                Console.WriteLine("Такого объекта не существует\n");
+                return;
+            }
+            list.RemoveAt(index);
+            Console.WriteLine("Объект удален\n");
         }
 
         /// <summary>

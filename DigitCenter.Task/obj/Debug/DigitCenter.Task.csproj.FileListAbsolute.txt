@@ -1,6 +1,0 @@
-D:\dev\DigitCenter.Task\DigitCenter.Task\bin\Debug\DigitCenter.Task.exe.config
-D:\dev\DigitCenter.Task\DigitCenter.Task\bin\Debug\DigitCenter.Task.exe
-D:\dev\DigitCenter.Task\DigitCenter.Task\bin\Debug\DigitCenter.Task.pdb
-D:\dev\DigitCenter.Task\DigitCenter.Task\obj\Debug\DigitCenter.Task.csprojResolveAssemblyReference.cache
-D:\dev\DigitCenter.Task\DigitCenter.Task\obj\Debug\DigitCenter.Task.exe
-D:\dev\DigitCenter.Task\DigitCenter.Task\obj\Debug\DigitCenter.Task.pdb
